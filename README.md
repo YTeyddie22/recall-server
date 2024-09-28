@@ -138,7 +138,7 @@ yarn lint:fix <package-name>
 ## Contributing
 
 ### Code of Conduct
-- Please read our [Code of Conduct](https://github.com/Friendsofthepeople/recall-server/CODE_OF_CONDUCT.md) before contributing.
+- Please read our [Code of Conduct](https://github.com/YTeyddie22/recall-server/blob/main/CODE_OF_CONDUCT.md) before contributing.
 - By participating in this project, you agree to abide by its terms.
 - We are committed to creating a welcoming and inclusive community.
 - We expect contributors to adhere to the Contributor Covenant code of conduct.
